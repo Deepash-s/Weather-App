@@ -9,7 +9,10 @@
 <body>
     <div class="card">
         <div class="search">
-            <input type="text" placeholder="enter city name", spellcheck="false">
+            <input type="text" placeholder="enter city name", spellcheck="false" onkeydown="
+if(event.key === 'Enter'){
+    checkWeather(searchBox.value)
+}">
             <button><img src="weather-app-img/images/search.png"></button>
         </div>
         <div class="error">
