@@ -6,8 +6,7 @@ A simple web app that fetches **real-time weather data** for any city using the 
 - 💧 Humidity  
 - 🌥️ Weather conditions  
 
-🔗 **Live Demo**: <a href="https://weather-app0101.netlify.app" target="_blank" rel="noopener noreferrer">Live Demo</a>
-
+🔗 **Live Demo**: [weather-app0101.netlify.app](https://weather-app0101.netlify.app)
 
 ---
 
