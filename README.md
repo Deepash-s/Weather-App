@@ -12,9 +12,9 @@ A simple web app that fetches **real-time weather data** for any city using the 
 
 ## 📸 Preview
 
-![Weather App Screenshot](weather-app-img/images/weather-preview.png)
+---![Weather App Screenshot](https://github.com/user-attachments/assets/1061e968-66a4-4376-8b04-ad3512be61aa)
+![](https://github.com/user-attachments/assets/ce4620b6-1ef7-43d1-9b93-f2b30a3a5cb8)
 
----
 
 ## 🧰 Tech Stack
 
